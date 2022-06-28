@@ -1,2 +1,2 @@
 # E-commerce-products-page
-Ecommerce products page using JavaScript with AJAX API
+Ecommerce products page using JavaScript with AJAX
